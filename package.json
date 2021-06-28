@@ -1,6 +1,6 @@
 {
   "name": "axios-instagram-scraper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Scrapes instagram account using axios.",
   "main": "index.js",
   "scripts": {
